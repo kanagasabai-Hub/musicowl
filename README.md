@@ -1,8 +1,14 @@
-# MusicOwl
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="MusicOwl icon">
+</p>
 
-A fast, offline music player for Windows, for the music files on your PC.
+<h1 align="center">MusicOwl</h1>
 
-**[Download the latest release](https://github.com/kanagasabai-Hub/musicowl/releases/latest)**
+<p align="center">
+  A fast, offline music player for Windows, for the music files on your PC.
+  <br><br>
+  <a href="https://github.com/kanagasabai-Hub/musicowl/releases/latest"><b>Download the latest release</b></a>
+</p>
 
 ## Features
 
@@ -26,8 +32,10 @@ A fast, offline music player for Windows, for the music files on your PC.
 
 ## Getting started
 
-1. Download `musicowl.exe` from the [latest release](https://github.com/kanagasabai-Hub/musicowl/releases/latest).
-2. Run it and choose **Add music folder**.
+1. Download the `MusicOwl-…-windows-x64.zip` file from the
+   [latest release](https://github.com/kanagasabai-Hub/musicowl/releases/latest).
+2. Unzip it anywhere, run `MusicOwl.exe` and choose **Add music folder**. There is nothing
+   to install.
 3. Press play. Personal mixes appear as MusicOwl learns what you like.
 
 ## Privacy
